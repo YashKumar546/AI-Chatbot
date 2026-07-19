@@ -164,27 +164,13 @@ Goodbye
 
 ## Home Page
 
-![Home Page](screenshots/screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/YashKumar546/AI-Chatbot/main/AI-Chatbot/screenshots/screenshots/home.png)
 
 ---
 
 ## Chat Demo
 
-![Chat Demo](screenshots/screenshots/chat-demo.png)
-
-# 📈 Future Improvements
-
-- Voice-based interaction
-- Deep Learning (LSTM/BERT)
-- Database integration
-- User authentication
-- Chat history
-- Multi-language support
-- Dark/Light theme toggle
-- Integration with external APIs
-
----
-
+![Chat Demo](https://raw.githubusercontent.com/YashKumar546/AI-Chatbot/main/AI-Chatbot/screenshots/screenshots/chat-demo.png)
 # 👨‍💻 Author
 
 **Yash Kumar**
