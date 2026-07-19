@@ -164,23 +164,13 @@ Goodbye
 
 ## Home Page
 
-> Add screenshot here
-
-```
-screenshots/home.png
-```
+![Home Page](screenshots/screenshots/home.png)
 
 ---
 
 ## Chat Demo
 
-> Add screenshot here
-
-```
-screenshots/chat-demo.png
-```
-
----
+![Chat Demo](screenshots/screenshots/chat-demo.png)
 
 # 📈 Future Improvements
 
