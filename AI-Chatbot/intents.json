@@ -1,0 +1,319 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good evening",
+        "Greetings",
+        "Hey there",
+        "Hi bot",
+        "How are you",
+        "What's up",
+        "Howdy",
+        "Yo",
+        "Good afternoon",
+        "Nice to meet you",
+        "Hello there"
+      ],
+      "responses": [
+        "Hello! 👋 How can I help you today?",
+        "Hi there! Welcome!",
+        "Hey! Nice to meet you."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you",
+        "Take care",
+        "Catch you later",
+        "See you soon",
+        "I am leaving",
+        "Talk to you later",
+        "See ya",
+        "Farewell",
+        "Have a nice day",
+        "Good night"
+      ],
+      "responses": [
+        "Goodbye! Have a wonderful day!",
+        "Take care and see you soon!",
+        "Bye! Feel free to chat again."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Thanks a lot",
+        "Many thanks",
+        "Appreciate it",
+        "Thank you so much",
+        "Awesome thanks",
+        "Thanks buddy",
+        "Much appreciated",
+        "Thanks for your help",
+        "Cheers"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!"
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Who are you",
+        "Tell me about yourself",
+        "Introduce yourself",
+        "What are you",
+        "Who created you",
+        "What is your purpose"
+      ],
+      "responses": [
+        "I am an AI chatbot built using Python, Flask, and Machine Learning.",
+        "I'm an intelligent chatbot created to answer your questions.",
+        "I was built as an NLP chatbot project."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Help",
+        "Can you help me",
+        "I need help",
+        "Support me",
+        "Assist me",
+        "What can you do"
+      ],
+      "responses": [
+        "I can answer questions about programming, AI, web development, and more.",
+        "Ask me anything related to my supported topics.",
+        "I'm here to help!"
+      ]
+    },
+    {
+      "tag": "python",
+      "patterns": [
+        "What is Python",
+        "Explain Python",
+        "Python programming",
+        "Tell me about Python",
+        "Python language",
+        "Uses of Python",
+        "Is Python easy"
+      ],
+      "responses": [
+        "Python is a high-level programming language used in web development, AI, automation, and data science.",
+        "Python is easy to learn and one of the world's most popular programming languages."
+      ]
+    },
+    {
+      "tag": "ai",
+      "patterns": [
+        "What is AI",
+        "Explain AI",
+        "Artificial Intelligence",
+        "Tell me about AI",
+        "Uses of AI",
+        "Define AI"
+      ],
+      "responses": [
+        "Artificial Intelligence enables machines to perform tasks that normally require human intelligence.",
+        "AI powers chatbots, recommendation systems, robotics, and much more."
+      ]
+    },
+    {
+      "tag": "machine_learning",
+      "patterns": [
+        "What is Machine Learning",
+        "Explain Machine Learning",
+        "Machine Learning meaning",
+        "ML",
+        "Tell me about Machine Learning",
+        "Uses of Machine Learning"
+      ],
+      "responses": [
+        "Machine Learning is a branch of AI where computers learn patterns from data.",
+        "Machine Learning helps computers make predictions without being explicitly programmed."
+      ]
+    },
+    {
+      "tag": "flask",
+      "patterns": [
+        "What is Flask",
+        "Explain Flask",
+        "Flask framework",
+        "Tell me about Flask",
+        "Uses of Flask"
+      ],
+      "responses": [
+        "Flask is a lightweight Python framework used for web development and APIs.",
+        "Flask is simple, fast, and widely used for Machine Learning web applications."
+      ]
+    },
+    {
+      "tag": "html",
+      "patterns": [
+        "What is HTML",
+        "Explain HTML",
+        "HTML meaning",
+        "Tell me about HTML"
+      ],
+      "responses": [
+        "HTML stands for HyperText Markup Language and is used to structure web pages.",
+        "HTML forms the foundation of every website."
+      ]
+    },
+    {
+      "tag": "css",
+      "patterns": [
+        "What is CSS",
+        "Explain CSS",
+        "CSS meaning",
+        "Tell me about CSS"
+      ],
+      "responses": [
+        "CSS stands for Cascading Style Sheets and is used to style web pages.",
+        "CSS controls colors, layouts, fonts, and animations."
+      ]
+    },
+    {
+      "tag": "javascript",
+      "patterns": [
+        "What is JavaScript",
+        "Explain JavaScript",
+        "Tell me about JavaScript",
+        "JavaScript meaning"
+      ],
+      "responses": [
+        "JavaScript adds interactivity to web pages.",
+        "JavaScript is one of the core technologies of modern web development."
+      ]
+    },
+    {
+      "tag": "git",
+      "patterns": [
+        "What is Git",
+        "Explain Git",
+        "Git meaning",
+        "Version control"
+      ],
+      "responses": [
+        "Git is a version control system used to track code changes.",
+        "Git helps developers collaborate and manage projects efficiently."
+      ]
+    },
+    {
+      "tag": "project",
+      "patterns": [
+        "Suggest a project",
+        "Project ideas",
+        "Programming projects",
+        "AI project"
+      ],
+      "responses": [
+        "You can build chatbots, image classifiers, sentiment analyzers, or recommendation systems.",
+        "A Flask-based AI chatbot is an excellent portfolio project."
+      ]
+    },
+    {
+      "tag": "college",
+      "patterns": [
+        "College tips",
+        "Study tips",
+        "Placement preparation",
+        "Interview preparation"
+      ],
+      "responses": [
+        "Practice DSA, build projects, and maintain a strong GitHub portfolio.",
+        "Consistency and practical projects are key for placements."
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": [
+        "Tell me a joke",
+        "Joke",
+        "Make me laugh",
+        "Funny"
+      ],
+      "responses": [
+        "Why do programmers prefer dark mode? Because light attracts bugs! 😄",
+        "Debugging: Being the detective in a crime movie where you're also the culprit."
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": [
+        "Motivate me",
+        "Give me motivation",
+        "Inspire me",
+        "Motivational quote"
+      ],
+      "responses": [
+        "Success comes from consistent effort, not overnight results.",
+        "Keep learning, keep building, and never stop improving."
+      ]
+    },
+    {
+      "tag": "time",
+      "patterns": [
+        "What time is it",
+        "Current time",
+        "Tell me the time"
+      ],
+      "responses": [
+        "I can't access your local time yet, but we can add this feature using Python's datetime module."
+      ]
+    },
+    {
+      "tag": "date",
+      "patterns": [
+        "Today's date",
+        "What is today's date",
+        "Current date"
+      ],
+      "responses": [
+        "I can't access today's date yet, but we'll add it using Python's datetime module."
+      ]
+    },
+
+    {
+      "tag": "weather",
+      "patterns": [
+        "Weather",
+        "Today's weather",
+        "Is it raining",
+        "Weather forecast"
+      ],
+      "responses": [
+        "I can't check live weather yet, but we can integrate a weather API later."
+      ]
+    },
+    {
+      "tag": "unknown",
+      "patterns": [
+        "asdfgh",
+        "qwerty",
+        "random text",
+        "something else",
+        "blah blah",
+        "???"
+      ],
+      "responses": [
+        "Sorry, I didn't understand that. Could you rephrase your question?",
+        "I'm not sure I understand. Can you ask that differently?",
+        "I don't have an answer for that yet. Try asking something else."
+      ]
+    }
+  ]
+}
